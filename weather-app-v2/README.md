@@ -1,4 +1,4 @@
-# skywatch 🌤️
+# Simple Weather app 🌤️
 
 A weather app I built using Python and Flask. You type in a city, it shows you the current weather along with a 5-day forecast. Uses the OpenWeatherMap API for data.
 
