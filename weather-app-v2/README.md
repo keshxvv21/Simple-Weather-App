@@ -27,8 +27,8 @@ A weather app I built using Python and Flask. You type in a city, it shows you t
 You'll need Python 3.8+ and a free API key from [openweathermap.org](https://openweathermap.org/api).
 
 ```bash
-git clone https://github.com/yourusername/skywatch.git
-cd skywatch
+git clone https://github.com/yourusername/simple-weather-app.git
+cd simple-weather-app
 
 python3 -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
@@ -47,6 +47,7 @@ Then run:
 ```bash
 python3 app.py
 ```
+Note: I have installed the Version 3.10.3 which is the current latest as of March 2026, the version may vary according to your Time of initialization.
 
 Open `http://127.0.0.1:5000` in your browser.
 
